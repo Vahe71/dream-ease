@@ -906,6 +906,10 @@ footer .copyright {
     .regular-content .container {
         flex-wrap: wrap;
     }
+    .regular-content-2 .container,
+    .regular-content-4 .container {
+        flex-wrap: wrap-reverse !important;
+    }
     .regular-content .container .gif-zone {
         width: 100%;
         display: flex;
