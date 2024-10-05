@@ -931,6 +931,9 @@ footer .copyright {
     .black-banner p {
         font-size: 18px;
     }
+    .main-content .info .big-card {
+        height: auto !important;
+    }
 }
 @media screen and (max-width: 768px) {
     footer .footer-content {
