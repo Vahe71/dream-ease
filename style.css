@@ -46,6 +46,10 @@ header section img {
 
 .main-content {
     padding: 40px 0;
+    background-position: center top;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-image: url(////img.funnelish.com/10101/169449/1700600465-Progetto%20senza%20titolo%20-%202023-11-21T230044.068.png?auto=webp&clip=bounds);
 }
 
 .main-content .container {
@@ -97,10 +101,6 @@ header section img {
 
 .main-content .slider .view-section button.next {
     right: 0;
-}
-
-.main-content .slider .preview-section {
-    /* height: 84px; */
 }
 
 .main-content .slider .preview-section .slider-nav {
@@ -323,7 +323,18 @@ header section img {
     background-color: rgb(222, 246, 235);
     padding: 40px 0;
 }
-
+.regular-content-3 {
+    background-position: 100% 0%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(////img.funnelish.com/10101/169449/1700602139-Copia%20di%20Copia%20di%20Progetto%20senza%20titolo%20%2849%29.png?auto=webp&clip=bounds);
+}
+.regular-content-4 {
+    background-position: 100% 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(////img.funnelish.com/10101/169449/1700602139-Copia%20di%20Copia%20di%20Progetto%20senza%20titolo%20%2849%29.png?auto=webp&clip=bounds);
+}
 .regular-content .container {
     display: flex;
     justify-content: space-between;
@@ -425,6 +436,10 @@ header section img {
 .feedbacks {
     padding: 40px 0;
     overflow: hidden;
+    background-position: center top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(////img.funnelish.com/10101/169449/1700600816-Copia%20di%20Progetto%20senza%20titolo%20%2837%29.png?auto=webp&clip=bounds);
 }
 
 .feedbacks .stars {
